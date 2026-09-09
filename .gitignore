@@ -1,0 +1,16 @@
+# Foundry
+cache/
+out/
+broadcast/
+
+# env
+.env
+.env.local
+
+# OS/editor
+.DS_Store
+.vscode/
+*.swp
+
+# node (if you ever touch JS tooling)
+node_modules/
