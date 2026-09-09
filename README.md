@@ -3,6 +3,7 @@
 My path to becoming a Web3 security researcher: Solidity fundamentals → security foundations → audit report analysis → live contests. This repo is both my working notebook and a curated record of findings as I go.
 
 **Started:** 2026 (9th september)
+
 **Goal:** First paid finding in a live contest (Sherlock), building toward consistent bounty income.
 
 ---
